@@ -123,7 +123,7 @@ public class SearchActivity extends ActionBarActivity {
 
     }
 
-   
+
     private void handleIntent(Intent intent) {
 
 

@@ -41,4 +41,7 @@ dependencies {
     compile('com.twitter.sdk.android:twitter:2.3.2@aar') {
         transitive = true;
     }
+    compile('com.digits.sdk.android:digits:2.0.6@aar') {
+        transitive = true;
+    }
 }
